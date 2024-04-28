@@ -3,8 +3,34 @@
 By 2030, enhance international cooperation to facilitate access to clean energy research and technology, including renewable energy, energy efficiency and advanced and cleaner fossil-fuel technology, and promote investment in energy infrastructure and clean energy technology
 
 # Why:
-* **Highest Cost of Infrastructure** : [Intel Granulate](https://granulate.io/blog/understanding-data-center-costs-and-how-they-compare-to-the-cloud/#:~:text=4.-,Power,major%20portion%20of%20operational%20expenses.) [closethegap foundation](https://www.closethegapfoundation.org/glossary/affordable-and-clean-energy#:~:text=Affordable%20and%20clean%20energy%20is%20essential%20for%20mitigating%20climate%20change, leading%20cause%20of%20climate%20change.)
+- **Highest Cost of Infrastructure** :
+
+ 	- [Intel Granulate](https://granulate.io/blog/understanding-data-center-costs-and-how-they-compare-to-the-cloud/#:~:text=4.-,Power,major%20portion%20of%20operational%20expenses.): Energy is the greatest cost to basic infrastructure like servers and data centers around the world, by making it cheaper to operate, the cost goes down and a company can not only reduce their prices for customers, but also increase profits by scaling better.
+
+
+- **[According to closethegap foundation](https://www.closethegapfoundation.org/glossary/affordable-and-clean-energy#:~:text=Affordable%20and%20clean%20energy%20is%20essential%20for%20mitigating%20climate%20change,leading%20cause%20of%20climate%20change.)** :
+
+	- Environmental Sustainability:
+	  - Essential for mitigating climate change and promoting environmental sustainability.
+	  - Fossil fuel-based energy sources are the primary contributors to greenhouse gas emissions.
+	  - Transitioning to clean energy sources such as solar, wind, hydro, and geothermal power can significantly reduce carbon emissions and decrease reliance on finite fossil fuel resources.
+
+
+	- Access to Reliable and Affordable Energy Services (Poverty Reduction):
+	  - Crucial for improving living conditions and creating economic opportunities, particularly in low-income communities.
+	  - Affordable energy allows businesses to operate efficiently, promotes entrepreneurship, and stimulates job creation.
+	  - Enables industries to flourish, driving economic growth and development.
+	  - With reliable and affordable energy, small-scale entrepreneurs can establish and expand their businesses, leading to increased income and improved livelihoods.
+
+	- Intersecting Goals:
+	  - Good health and well-being, quality education, gender equality, and industry innovation, among others.
+	  - Access to reliable and clean energy is essential for improving healthcare services, powering medical facilities, and ensuring the proper storage and distribution of vaccines and medications.
+	  - It enables the deployment of sustainable and efficient technologies in healthcare, contributing to better health outcomes and improved well-being.
+	  - Moreover, affordable energy facilitates access to education by powering schools and providing electricity for educational resources, such as computers and internet connectivity.
+
+
 # Primary Capabilities
+
 * **Knowledge Sharing and Collaboration** : AI-powered platforms can facilitate global collaboration by enabling researchers, scientists, and policymakers from different countries to share data, insights, and best practices in clean energy research and technology. This fosters a collaborative environment for innovation and accelerates the development and deployment of clean energy solutions.
 
   + **Implementation Status:** Implemented
