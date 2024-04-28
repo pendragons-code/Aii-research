@@ -18,5 +18,13 @@ Affordable and Clean Energy (no date c) Close the Gap Foundation. Available at: 
 
 Why AI and energy are the new power couple (no date) IEA. Available at: https://www.iea.org/commentaries/why-ai-and-energy-are-the-new-power-couple (Accessed: April 23, 2024).
 
+SDG AI lab (no date) UNDP. Available at: https://www.undp.org/policy-centre/istanbul/sdg-ai-lab-0 (Accessed: April 28, 2024).
+
+Digitalization and Energy – Analysis (no date) IEA. Available at: https://www.iea.org/reports/digitalisation-and-energy (Accessed: April 28, 2024).
+
+Merchant, A. et al. (2023) “Scaling deep learning for materials discovery,” Nature, 624(7990), pp. 80–85. doi: 10.1038/s41586-023-06735-9.
+
+Kong, S. et al. (2022) “Performance verification of Bayesian network–based security risk management and control system for power trading institutions,” Frontiers in energy research, 10. doi: 10.3389/fenrg.2022.904079.
+
 
 ```
