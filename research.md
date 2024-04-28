@@ -20,10 +20,11 @@ By 2030, enhance international cooperation to facilitate access to clean energy 
 
 - **Risk Mitigation**: AI-powered risk assessment models can help identify and mitigate potential barriers to clean energy deployment, such as technical, financial, and regulatory risks. By analyzing historical data and simulating future scenarios, AI provides insights into the likelihood and impact of various risk factors, enabling stakeholders to develop strategies for managing and mitigating risks associated with clean energy investments and infrastructure projects.
 
-# technical details- **Knowledge Sharing and Collaboration**
+# technical details
+- **Knowledge Sharing and Collaboration**
 
-- **Implementation Status:** Implemented
-- **Example (Evidence):** A study published in the International Journal of Sustainable Energy and Environmental Research showcases how an AI-powered platform utilizing federated learning techniques successfully aggregated insights from distributed datasets across multiple countries, preserving data privacy while enabling efficient semantic search functionalities for users.
+  - **Implementation Status:** Implemented
+  - **Example (Evidence):** A study published in the International Journal of Sustainable Energy and Environmental Research showcases how an AI-powered platform utilizing federated learning techniques successfully aggregated insights from distributed datasets across multiple countries, preserving data privacy while enabling efficient semantic search functionalities for users.
 
 - **Technology Transfer**
 
